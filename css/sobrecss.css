@@ -18,6 +18,7 @@ header {
     text-align: center;
     background-color: white;
     margin-left: 10%;
+    text-align: justify;
     max-width: fit-content;
     max-height: fit-content;
 }
