@@ -23,42 +23,6 @@ header {
     max-height: fit-content;
 }
 
-.rodape ul {
-    margin: 0%;
-    background-color: rgb(255, 60, 60);
-    list-style-type: none;
-}
-
-.rodape li {
-    color: black;
-    display: inline;
-    padding: 13%;
-    padding-bottom: 0%;
-    padding-top: 0%;
-}
-
-.rodape li:hover {
-    background-color: white;
-}
-
-.rodape {
-    border-style: solid;
-    border-top: 5px;
-    border-bottom: none;
-    border-left: none;
-    border-right: none;
-    border-color: white;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(255, 60, 60);
-}
-
-.rodape a {
-    text-decoration: none;
-    color: black;
-}
-
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
