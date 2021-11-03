@@ -23,12 +23,3 @@ main{
 main .row div {
     padding: 5vw;
 }
-
-
-.cabecalho {
-    border-bottom: 0.3vw solid white;
-}
-
-.navbar-brand {
-    padding: 0;
-}

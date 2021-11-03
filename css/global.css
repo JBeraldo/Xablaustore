@@ -16,6 +16,23 @@ body{
     font-size: 1.6rem;
 }
 
+/* header */
+header {
+    border-bottom: 0.3vw solid white;
+}
+
+header input::placeholder,li, .btn {
+    font-size: 1.6rem;
+}
+header input::placeholder{
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+
 /* footer */
 
 footer {
